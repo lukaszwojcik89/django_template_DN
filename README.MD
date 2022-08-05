@@ -5,4 +5,5 @@
 - PoC - proof of concept
 - MVP - minimum value product
 - Product 
-- DB - connection string
+- DB - connection 
+- yaml - yet another markup language
